@@ -6,4 +6,4 @@
 	$ git clone https://github.com/yp-wang/3d-cnn
 	$ cd 3d-cnn
 	$ make
-	$ ./3DNet [train/valid] [cfg] [weights (optional)
+	$ ./3DNet [train/valid] [cfg] [weights (optional)]
