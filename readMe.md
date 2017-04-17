@@ -3,6 +3,7 @@
   3D-CNN is a CNN framework based on [darknet](https://github.com/pjreddie/darknet)
   
   Require：
+  
         $  sudo apt-get install p7zip
   
   Usage:
